@@ -26,6 +26,7 @@ APIs
 - [Knowledge](#knowledge)
 - [Weather](#weather)
 - [Sports](#sports)
+- [Food](#food)
 - [Entertainment](#entertainment)
 - [Processing](#processing)
 - [Virtual](#virtual)
@@ -55,7 +56,7 @@ All items below are :money_with_wings: in some way, e.g., only one free node hav
 ### FaaS
 
 - [Serverless](https://serverless.com/) - Platform is coming.
-- [stdlib](https://stdlib.com/)- Scalable microservices in Node.js (registration, gateway and management).
+- [StdLib](https://stdlib.com/)- Scalable microservices in Node.js (registration, gateway and management).
 
 ### Devops
 
@@ -77,27 +78,28 @@ All items below are :money_with_wings: in some way, e.g., only one free node hav
 ### Content
 
 - [cloudinary](http://cloudinary.com/) - The image back-end for web and mobile developers with an end-to-end solution (storage, manipulation and delivery).
-- [Qiniu](http://www.qiniu.com/) - General storage.
+- [Qiniu七牛](http://www.qiniu.com/) - General storage.
 
 ### AI as a Service
 
 - [api.ai](https://api.ai/) - Conversational User Experience Platform (e.g., chatbot for Slack with NLP integrated). `https://api.api.ai/v1/`
 - [Watson Conversation](https://www.ibmwatsonconversation.com/)
-- [Aws Lex](https://aws.amazon.com/lex/) - Conversational interfaces for your applications powered by the same deep learning technologies as Alexa. :money_with_wings:
+- [AWS Lex](https://aws.amazon.com/lex/) - Conversational interfaces for your applications powered by the same deep learning technologies as Alexa. :money_with_wings:
 
 ### Misc
 
 - [Auth0](https://auth0.com/pricing) - Add authentication to your web and mobile apps with ease (virtually anything able to send HTTPs requests can integrate with Auth0)
 - [Stormpath](https://stormpath.com/) - Add authentication, authorization, and user management to any web or mobile app in minutes.
 - [Zapier](https://zapier.com/) - Connect the apps you use, automate tasks, get more out of your data.
-- [algolia](https://www.algolia.com/) - Hosted Search API that delivers instant and relevant results from the first keystroke.
+- [Algolia](https://www.algolia.com/) - Hosted Search API that delivers instant and relevant results from the first keystroke.
 - [License](https://choosealicense.com/) - Choose an open source license (tool by Github).
+- [Let’s Encrypt](https://letsencrypt.org/) - Free, automated, and open Certificate Authority.
 
 ## APIs
 
 ### Knowledge
 
-- [wikidata](https://www.wikidata.org/) - A free and open knowledge base that can be read and edited by both humans and machines, as central storage for **the structured data** of its Wikimedia sister projects including Wikipedia, Wikivoyage, Wikisource, and others.
+- [Wikidata](https://www.wikidata.org/) - A free and open knowledge base that can be read and edited by both humans and machines, as central storage for **the structured data** of its Wikimedia sister projects including Wikipedia, Wikivoyage, Wikisource, and others.
 - [ConceptNet](http://www.conceptnet.io/) - An open, multilingual knowledge graph (in [JSON-LD](https://en.wikipedia.org/wiki/JSON-LD) format). (http://api.conceptnet.io/c/en/tiger)
 - [Wolfram|Alpha](http://products.wolframalpha.com/api/) - Top computational knowledge with Wolfram|Alpha knowledgebase. (http://api.wolframalpha.com/v1/simple?appid=DEMO&i=What+airplanes+are+flying+overhead%3F) :key:
 
@@ -105,23 +107,30 @@ All items below are :money_with_wings: in some way, e.g., only one free node hav
 
 - [DarkSky](https://darksky.net/dev/) - The easiest, most advanced, weather API on the web. `https://api.darksky.net/forecast/[key]/[latitude],[longitude]` :key:
 - [Pm25.in](http://www.pm25.in/) - AQI data for Chinese cities. :key:
-- [aqicn](http://aqicn.org/api/) - Map tile, widget and JSON data. `http://tiles.aqicn.org/tiles/{aqi}/{z}/{x}/{y}.png` :key:
+- [aqicn.org](http://aqicn.org/api/) - Map tile, widget and JSON data. `http://tiles.aqicn.org/tiles/{aqi}/{z}/{x}/{y}.png` :key:
 
 ### Sports
 
 - [Football-data](http://api.football-data.org/index) - Ur src of machine readable football data (Fixtures, league tables, teams and events). :key:
 
+### Food
+
+- [spoonacular](https://spoonacular.com/food-api) - Food, recipe and nutrition; parsing, matching, and searching. :key:
+- [FatSecret](https://platform.fatsecret.com/api/) - Food and nutrition information as well as exercise and weight management tools. :key:
+- [HUDS](https://manual.cs50.net/api/food/) - Harvard University Dining Service menus. :key:
+- [Beer Mapping](https://beermapping.com/api/) - Utilities for grabbing or aggregating our Brewpub, Brewery, Beer Bar or Beer Store information. :key:
+
 ### Entertainment
 
 - [Marvel](http://developer.marvel.com/) - Marvel comics, creators, characters, events, stories and series (in beta, see also [marvelousdb](http://marvelousdb.com/)). `GET /v1/public/characters` :key:
-- [douban](https://developers.douban.com/wiki/?title=api_v2) - Douban books, movies, musics, events ... (中文) `GET /v2/movie/subject/1764796` :key:
-- [taobao](http://open.taobao.com/docs/api_list.htm) - Taobao items, Xiami music ... :key:
+- [douban豆瓣](https://developers.douban.com/wiki/?title=api_v2) - Douban books, movies, musics, events ... (中文) `GET /v2/movie/subject/1764796` :key:
+- [taobao淘宝](http://open.taobao.com/docs/api_list.htm) - Taobao items, Xiami music ... :key:
 
 ### Processing
 
 - [Face++](https://www.faceplusplus.com.cn/) - Face, ID-card and image recognition. :key:
 - [TextRazor](https://www.textrazor.com/) - The TextRazor API helps you extract and understand the Who, What, Why and How from your text. :key:
-- [clarifai](https://www.clarifai.com/) - Image and video recognition. :key:
+- [Clarifai](https://www.clarifai.com/) - Image and video recognition. :key:
 
 ### Virtual
 
