@@ -68,12 +68,17 @@ All items below are :money_with_wings: in some way, e.g., only one free node hav
 - [Peek](http://peek.usertesting.com/) - See and hear a 5-minute video of a real person using your site or app. It's super fast and totally free (usability testing tool).
 - [Travic](https://travis-ci.org/) - Free CI for github projects.
 - [Codeship](https://codeship.com/) - A fully customizable hosted CI platform.
+- [NanoBox](http://nanobox.io/) - A portable micro platform with managed deployment and auto-scale that let you focus on code. :money_with_wings:
 
 ### Marketing
 
 - [Mailchimp](https://mailchimp.com/) - Email marketing platform
 - [Sendgrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform. :money_with_wings:
 - [CleverTap](https://clevertap.com/) - Behavioral Analytics, Smart Segments with Personalized Messaging all built on a platform that gives you complete control.
+- [Nylas Cloud](https://nylas.com/cloud) - Provide a modern API that works with existing email providers, eliminates the complexity of working with old protocols like IMAP and MIME to integrate your app with a user’s email, contacts, or calendar data.
+- [Kloudless](https://kloudless.com/calendar-api/) - Universal Calendar API
+that integrate many Calendar services.
+- [Cronofy](https://www.cronofy.com/) - Build secure, real-time, two-way calendar integration without compromising your users’ privacy.
 
 ### Content
 
@@ -83,8 +88,11 @@ All items below are :money_with_wings: in some way, e.g., only one free node hav
 ### AI as a Service
 
 - [api.ai](https://api.ai/) - Conversational User Experience Platform (e.g., chatbot for Slack with NLP integrated). `https://api.api.ai/v1/`
-- [Watson Conversation](https://www.ibmwatsonconversation.com/)
+- [Watson](https://www.ibm.com/watson/developercloud/) - Enable Cognitive computing with Language, Vision, Speech and Data APIs. :money_with_wings:
 - [AWS Lex](https://aws.amazon.com/lex/) - Conversational interfaces for your applications powered by the same deep learning technologies as Alexa. :money_with_wings:
+- [Wit.ai](https://wit.ai/) - Natural Language for Developers.
+- [LUIS](https://www.luis.ai/) - Language Understanding Intelligent Service (part of  [Microsoft Cognitive Services](https://www.microsoft.com/cognitive-services/) :money_with_wings:).
+- [Pandorabots](http://www.pandorabots.com/) - A RESTful API for integrating artificially intelligent chatbots into applications. :money_with_wings:
 
 ### Misc
 
@@ -131,6 +139,8 @@ All items below are :money_with_wings: in some way, e.g., only one free node hav
 - [Face++](https://www.faceplusplus.com.cn/) - Face, ID-card and image recognition. :key:
 - [TextRazor](https://www.textrazor.com/) - The TextRazor API helps you extract and understand the Who, What, Why and How from your text. :key:
 - [Clarifai](https://www.clarifai.com/) - Image and video recognition. :key:
+- [Ambiverse](https://www.ambiverse.com/) - Automatic text understanding
+and intelligent text production.
 
 ### Virtual
 
