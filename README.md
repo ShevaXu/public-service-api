@@ -52,6 +52,7 @@ All items below are :money_with_wings: in some way, e.g., only one free node hav
 - [Firebase](https://www.firebase.com/) - Provide features to make app development easier, including Notifications, file Storage, Analytics, Remote Config, Dynamic Links, and more.
 - [Stream](https://getstream.io/) - Scalable Newsfeeds & Activity Streams
 - [Backendless](https://backendless.com/) - Hosting, API engine and merketplace platform.
+- [deepstreamHub](https://deepstreamhub.com) - a lightning fast realtime data-store that connects browsers, smartphones, backends and the IoT.
 
 ### FaaS
 
@@ -102,6 +103,7 @@ that integrate many Calendar services.
 - [Algolia](https://www.algolia.com/) - Hosted Search API that delivers instant and relevant results from the first keystroke.
 - [License](https://choosealicense.com/) - Choose an open source license (tool by Github).
 - [Let’s Encrypt](https://letsencrypt.org/) - Free, automated, and open Certificate Authority.
+- [Segment](https://segment.com/) - Data integration.
 
 ## APIs
 
@@ -141,6 +143,7 @@ that integrate many Calendar services.
 - [Clarifai](https://www.clarifai.com/) - Image and video recognition. :key:
 - [Ambiverse](https://www.ambiverse.com/) - Automatic text understanding
 and intelligent text production.
+- [Smmry](http://smmry.com/api) - API to summarize articles, webpage and text.
 
 ### Virtual
 
@@ -154,6 +157,7 @@ and intelligent text production.
 - [Socrata Open Data API (SODA)](https://dev.socrata.com/) - Government organizations data of the states. (https://data.ct.gov/resource/y6p2-px98.json?category=Fruit&item=Peaches)
 - [Internet Archive](https://archive.org/advancedsearch.php) - A non-profit library of millions of free books, movies, software, music, websites, and more.
 - [Wayback](https://archive.org/help/wayback_api.php) - Retrieve information about Wayback capture web data. (http://archive.org/wayback/available?url=example.com)
+- [News](https://newsapi.org/) - API that returns JSON metadata for the headlines. :key:
 
 ### See Also
 
