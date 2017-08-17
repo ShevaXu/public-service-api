@@ -95,6 +95,13 @@ that integrate many Calendar services.
 - [LUIS](https://www.luis.ai/) - Language Understanding Intelligent Service (part of  [Microsoft Cognitive Services](https://www.microsoft.com/cognitive-services/) :money_with_wings:).
 - [Pandorabots](http://www.pandorabots.com/) - A RESTful API for integrating artificially intelligent chatbots into applications. :money_with_wings:
 
+### Static Site Hosting
+
+- [Github pages](https://pages.github.com/) & [Gitlab pages](https://pages.gitlab.io/) (*FREE*)
+- [Netlify](https://www.netlify.com/)
+- [Forge](https://getforge.com/) - Forge is the fastest possible way to host your website.
+- [surge](https://surge.sh/) - Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line.
+
 ### Misc
 
 - [Auth0](https://auth0.com/pricing) - Add authentication to your web and mobile apps with ease (virtually anything able to send HTTPs requests can integrate with Auth0)
@@ -104,6 +111,7 @@ that integrate many Calendar services.
 - [License](https://choosealicense.com/) - Choose an open source license (tool by Github).
 - [Let’s Encrypt](https://letsencrypt.org/) - Free, automated, and open Certificate Authority.
 - [Segment](https://segment.com/) - Data integration.
+- [OpenCage](https://geocoder.opencagedata.com/) - An API to convert coordinates to and from places (free tier service).
 
 ## APIs
 
@@ -163,3 +171,4 @@ and intelligent text production.
 
 - [ProgrammableWeb](https://www.programmableweb.com/)
 - [abhishekbanthia/Public-APIs](https://github.com/abhishekbanthia/Public-APIs)
+- [toddmotto/public-apis](https://github.com/toddmotto/public-apis)
